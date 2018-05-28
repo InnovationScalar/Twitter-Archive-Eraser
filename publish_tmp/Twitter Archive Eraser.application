@@ -16,13 +16,6 @@
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Application Files\Twitter Archive Eraser_5_2_0_0\Twitter Archive Eraser.exe.manifest" size="16184">
       <assemblyIdentity name="Twitter Archive Eraser.exe" version="5.2.0.0" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rkx0hYIoLmE7P1BMXMhF/0KWhFxS44tmvK5mW+h3Akk=</dsig:DigestValue>
-      </hash>
     </dependentAssembly>
   </dependency>
 </asmv1:assembly>

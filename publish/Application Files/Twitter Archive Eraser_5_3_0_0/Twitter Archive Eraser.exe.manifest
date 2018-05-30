@@ -170,7 +170,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KeXvS7yM6PiuygrelCE+JY5aK2s1QruvqYu7HCXdHVM=</dsig:DigestValue>
+        <dsig:DigestValue>0lJPpztW00f9aUkt4t084B4j/hbrgEhxbQhEzzm2WSE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -246,15 +246,7 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Twitter Archive Eraser.exe.config" size="2430">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>+oCnUBKCaqJMieqScYTg8T8x3x2oXTdRmOA1TpQ30hk=</dsig:DigestValue>
-    </hash>
-  </file>
+  <file name="Twitter Archive Eraser.exe.config" size="2430" />
   <file name="twitter_alt.ico" size="167445">
     <hash>
       <dsig:Transforms>

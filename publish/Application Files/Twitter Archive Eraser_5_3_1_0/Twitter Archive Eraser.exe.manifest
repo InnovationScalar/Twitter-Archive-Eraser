@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Twitter Archive Eraser.exe" version="5.2.0.0" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
-  <description asmv2:iconFile="twitter_alt.ico" asmv2:publisher="MARTANI" asmv2:product="Twitter Archive Eraser" asmv2:supportUrl="http://martani.github.io/Twitter-Archive-Eraser/" co.v1:errorReportUrl="http://martani.github.io/Twitter-Archive-Eraser/" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <asmv1:assemblyIdentity name="Twitter Archive Eraser.exe" version="5.3.1.0" publicKeyToken="0000000000000000" language="en" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="twitter_alt.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Twitter Archive Eraser" version="5.2.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Twitter Archive Eraser" version="5.3.1.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="Twitter Archive Eraser.exe" parameters="" />
   </entryPoint>
-  <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
   <trustInfo>
     <security>
       <applicationRequestMinimum>
@@ -164,14 +163,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Twitter Archive Eraser.exe" size="442880">
-      <assemblyIdentity name="Twitter Archive Eraser" version="5.2.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Twitter Archive Eraser.exe" size="611328">
+      <assemblyIdentity name="Twitter Archive Eraser" version="5.3.1.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>F72Fq8g8BGDeMgBWZr8HFCynklWHHWv3dOQlOziPXyY=</dsig:DigestValue>
+        <dsig:DigestValue>iXKfM5OV+jDHIvZKK6kvCIo/FT8i0CrdPCJDaF8/74k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -247,7 +246,7 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Twitter Archive Eraser.exe.config" size="2430" />
+  <file name="Twitter Archive Eraser.exe.config" size="2428" />
   <file name="twitter_alt.ico" size="167445">
     <hash>
       <dsig:Transforms>
